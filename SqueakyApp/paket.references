@@ -1,0 +1,8 @@
+group netstandard
+
+Fabulous.XamarinForms
+Fabulous.XamarinForms.LiveUpdate
+Newtonsoft.Json
+Xamarin.Essentials
+Xamarin.Forms
+FSharp.Core
